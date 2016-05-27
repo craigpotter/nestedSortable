@@ -1,3 +1,7 @@
+# NOTICE
+
+This is a direct fork of https://github.com/ilikenwf/nestedSortable. Only thing I have changed is the README.MD and intergrated it with Bower. 
+
 # nestedSortable jQuery plugin
 
 **nestedSortable** is a jQuery plugin that extends jQuery Sortable UI functionalities to nested lists.  
