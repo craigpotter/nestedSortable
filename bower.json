@@ -1,6 +1,12 @@
 {
-  "name": "nestedSortable",
+  "name": "cp-nestedSortable",
   "version": "2.0",
-  "main": "",
-  "license": "MIT"
+  "license": "MIT",
+  "ignore": [
+    "readme.md",
+    "meteor",
+    "package.json",
+    "package.js",
+
+  ]
 }
